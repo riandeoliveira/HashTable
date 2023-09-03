@@ -1,0 +1,17 @@
+{
+  "name": "trabalho-tabela-hash",
+  "version": "1.0.0",
+  "description": "Criar um programa em JavaScript para exibir quantas vezes cada palavra foi utilizada em um dado texto.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-to-table": "^1.0.1",
+    "objects-to-csv": "^1.3.6",
+    "prompt-sync": "^4.2.0"
+  }
+}
